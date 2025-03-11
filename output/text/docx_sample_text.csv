@@ -1,0 +1,58 @@
+file_name,file_type,heading_level,is_bold,is_heading,is_italic,paragraph_index,run_index,style,text
+sample.docx,docx,,True,False,,1,1,normal,"Q1 - Given the root of a binary tree, check whether it is symmetrical within itself. "
+sample.docx,docx,,True,False,,3,1,normal,Example 1 - 
+sample.docx,docx,,,False,,3,2,normal, 
+sample.docx,docx,,,False,,5,1,normal,Input -  
+sample.docx,docx,,,False,,5,2,normal,"[10,40,40,21,90,90,21]"
+sample.docx,docx,,,False,,6,1,normal,Output - true
+sample.docx,docx,,True,False,,10,1,normal,Example 2 -  
+sample.docx,docx,,,False,,12,1,normal,"Input - [10,40,40,21,90,90,21,30,null,null,null,null,30]"
+sample.docx,docx,,,False,,12,2,normal,
+sample.docx,docx,,,False,,13,1,normal,Output - false
+sample.docx,docx,,,False,,17,1,normal,"Sample definition for the Binary tree in c++ : 
+	Struct BinaryTreeNode{"
+sample.docx,docx,,,False,,18,1,normal,		int data;
+sample.docx,docx,,,False,,19,1,normal,		BinaryTreeNode *left;
+sample.docx,docx,,,False,,20,1,normal,		BinaryTreeNode *right;
+sample.docx,docx,,,False,,22,1,normal,		BinaryTreeNode() {
+sample.docx,docx,,,False,,23,1,normal,   			   data= 0;
+sample.docx,docx,,,False,,24,1,normal,    left = nullptr;
+sample.docx,docx,,,False,,25,1,normal,    right = nullptr;
+sample.docx,docx,,,False,,26,1,normal,}
+sample.docx,docx,,,False,,27,1,normal,		BinaryTreeNode(int x) {
+sample.docx,docx,,,False,,28,1,normal,   			   data= x;
+sample.docx,docx,,,False,,29,1,normal,    left = nullptr;
+sample.docx,docx,,,False,,30,1,normal,    right = nullptr;
+sample.docx,docx,,,False,,31,1,normal,}
+sample.docx,docx,,,False,,32,1,normal,	}
+sample.docx,docx,,True,False,,36,1,normal,"Q2 - Given an unsorted array, print Kth Largest an unsorted array.(Do not use sorting)"
+sample.docx,docx,,True,False,,38,1,normal,Example 1-
+sample.docx,docx,,,False,,40,1,normal,"Input: Array = [1,2,6,4,5,3] ,"
+sample.docx,docx,,,False,,41,1,normal,K = 3
+sample.docx,docx,,,False,,42,1,normal,Output: kth largest element = 4
+sample.docx,docx,,True,False,,44,1,normal,Example 2-
+sample.docx,docx,,,False,,46,1,normal,"Input: Array = [1,2,6,4,5] , "
+sample.docx,docx,,,False,,47,1,normal,k = 3 
+sample.docx,docx,,,False,,48,1,normal,Output : kth largest element = 4
+sample.docx,docx,,True,False,,52,1,normal,"Q3 - Given the head of a singly linked list, return true if it is a palindrome or false otherwise."
+sample.docx,docx,,True,False,,54,1,normal,Example 1-
+sample.docx,docx,,,False,,56,1,normal,"Input: head = [1,2,2,1]"
+sample.docx,docx,,,False,,57,1,normal,Output: true
+sample.docx,docx,,True,False,,59,1,normal,Example 2-
+sample.docx,docx,,,False,,61,1,normal,"Input: head = [1,2]"
+sample.docx,docx,,,False,,62,1,normal,Output: false
+sample.docx,docx,,,False,,64,1,normal,Constraints:
+sample.docx,docx,,,False,,66,1,normal,"The number of nodes in the list is in the range [1, 105]."
+sample.docx,docx,,,False,,67,1,normal,0 <= Node.val <= 9
+sample.docx,docx,,True,False,,70,1,normal,"Ques 4. Given an undirected graph, you have to find the number of connected components in that graph. If the graph is connected, then print -1."
+sample.docx,docx,,True,False,,72,1,normal,E.g. -
+sample.docx,docx,,True,False,,74,1,normal,Input -
+sample.docx,docx,,,False,,74,2,normal,"   Nodes: [1, 2, 3], Edges: [(1, 2), (1, 3), (2, 3)]"
+sample.docx,docx,,True,False,,75,1,normal,Output 
+sample.docx,docx,,,False,,75,2,normal," = -1, the graph is connected      "
+sample.docx,docx,,,False,,77,1,normal,E.g.- 
+sample.docx,docx,,True,False,,79,1,normal, Input -
+sample.docx,docx,,,False,,79,2,normal,"   Nodes: [1, 2, 3,4,5], Edges: [(1, 2), (1, 3), (2, 3)]"
+sample.docx,docx,,True,False,,80,1,normal,Output  = 
+sample.docx,docx,,,False,,80,2,normal,3 - 
+sample.docx,docx,,,False,,80,3,normal,"  As {1,2,3} {4} and {5} are not connected to anyone"

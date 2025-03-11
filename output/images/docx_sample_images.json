@@ -1,0 +1,20 @@
+[
+  {
+    "rel_id": "rId6",
+    "width": 374,
+    "height": 267,
+    "format": "png",
+    "file_path": "output/images/docx_sample_rId6.png",
+    "file_type": "docx",
+    "file_name": "sample.docx"
+  },
+  {
+    "rel_id": "rId7",
+    "width": 580,
+    "height": 361,
+    "format": "png",
+    "file_path": "output/images/docx_sample_rId7.png",
+    "file_type": "docx",
+    "file_name": "sample.docx"
+  }
+]

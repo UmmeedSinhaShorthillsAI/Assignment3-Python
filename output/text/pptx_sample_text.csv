@@ -1,0 +1,25 @@
+file_name,file_type,is_title,shape_index,shape_type,slide_number,text
+sample.pptx,pptx,False,1,Google Shape;59;p13,1,Adobe Illustrator
+sample.pptx,pptx,False,2,Google Shape;60;p13,1,DES526/DES307
+sample.pptx,pptx,False,1,Google Shape;65;p14,2,What is Adobe Illustrator
+sample.pptx,pptx,False,2,Google Shape;66;p14,2,"Adobe Illustrator is a vector graphics software application developed and marketed by Adobe Inc. It's primarily used for creating and editing vector-based artwork.
+Adobe Illustrator has a wide range of applications across various industries. Here are some key areas where it's commonly used:
+"
+sample.pptx,pptx,False,1,Google Shape;71;p15,3,"Logo Design: Creating scalable, versatile logos for businesses and brands.
+"
+sample.pptx,pptx,False,1,Google Shape;78;p16,4,"2. Branding: Developing comprehensive brand identities, including business cards, letterheads, and other collateral."
+sample.pptx,pptx,False,1,Google Shape;85;p17,5,"3. Print Design: Designing posters, flyers, brochures, magazine layouts, and other print materials."
+sample.pptx,pptx,False,1,Google Shape;92;p18,6,"4. Packaging Design: Creating product packaging, labels, and mockups."
+sample.pptx,pptx,False,1,Google Shape;99;p19,7,"5. Icon Design: Developing icons for apps, websites, and user interfaces."
+sample.pptx,pptx,False,4,Google Shape;102;p19,7,6. Infographic Creation: Designing informative and visually appealing infographics.
+sample.pptx,pptx,False,1,Google Shape;109;p20,8,"7. Web and UI Design: Creating web graphics, buttons, and other interface elements."
+sample.pptx,pptx,False,2,Google Shape;110;p20,8,8. Typography and Lettering: Designing custom typefaces and lettering.
+sample.pptx,pptx,False,1,Google Shape;117;p21,9,Vector Artwork
+sample.pptx,pptx,False,2,Google Shape;118;p21,9,"Vector-based art refers to a type of digital graphic that uses mathematical equations to define shapes, lines, and colors. Here's a more detailed explanation:
+Vector graphics are made up of paths, which are defined by a start and end point, along with other points, curves, and angles along the way. These paths can be used to create simple shapes or complex illustrations.
+Common file formats:
+AI (Adobe Illustrator)
+SVG (Scalable Vector Graphics)
+EPS (Encapsulated PostScript)
+PDF (Portable Document Format, when created from vector software)
+"

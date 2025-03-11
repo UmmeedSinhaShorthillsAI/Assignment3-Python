@@ -1,0 +1,15 @@
+file_name,file_path,file_type,format,height,shape_index,slide_number,width
+sample.pptx,output/images/pptx_sample_3_2.png,pptx,png,364,2,3,880
+sample.pptx,output/images/pptx_sample_3_3.png,pptx,png,360,3,3,871
+sample.pptx,output/images/pptx_sample_4_2.png,pptx,png,351,2,4,869
+sample.pptx,output/images/pptx_sample_4_3.png,pptx,png,694,3,4,927
+sample.pptx,output/images/pptx_sample_5_2.png,pptx,png,288,2,5,701
+sample.pptx,output/images/pptx_sample_5_3.png,pptx,png,291,3,5,697
+sample.pptx,output/images/pptx_sample_6_2.png,pptx,png,285,2,6,699
+sample.pptx,output/images/pptx_sample_6_3.png,pptx,png,286,3,6,699
+sample.pptx,output/images/pptx_sample_7_2.png,pptx,png,286,2,7,348
+sample.pptx,output/images/pptx_sample_7_3.png,pptx,png,289,3,7,339
+sample.pptx,output/images/pptx_sample_7_5.png,pptx,png,636,5,7,935
+sample.pptx,output/images/pptx_sample_7_6.png,pptx,png,706,6,7,936
+sample.pptx,output/images/pptx_sample_8_3.png,pptx,png,288,3,8,704
+sample.pptx,output/images/pptx_sample_8_4.png,pptx,png,294,4,8,704

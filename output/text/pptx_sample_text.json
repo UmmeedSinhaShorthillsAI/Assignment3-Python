@@ -1,0 +1,128 @@
+[
+  {
+    "slide_number": 1,
+    "shape_index": 1,
+    "text": "Adobe Illustrator",
+    "is_title": false,
+    "shape_type": "Google Shape;59;p13",
+    "file_type": "pptx",
+    "file_name": "sample.pptx"
+  },
+  {
+    "slide_number": 1,
+    "shape_index": 2,
+    "text": "DES526/DES307",
+    "is_title": false,
+    "shape_type": "Google Shape;60;p13",
+    "file_type": "pptx",
+    "file_name": "sample.pptx"
+  },
+  {
+    "slide_number": 2,
+    "shape_index": 1,
+    "text": "What is Adobe Illustrator",
+    "is_title": false,
+    "shape_type": "Google Shape;65;p14",
+    "file_type": "pptx",
+    "file_name": "sample.pptx"
+  },
+  {
+    "slide_number": 2,
+    "shape_index": 2,
+    "text": "Adobe Illustrator is a vector graphics software application developed and marketed by Adobe Inc. It's primarily used for creating and editing vector-based artwork.\nAdobe Illustrator has a wide range of applications across various industries. Here are some key areas where it's commonly used:\n",
+    "is_title": false,
+    "shape_type": "Google Shape;66;p14",
+    "file_type": "pptx",
+    "file_name": "sample.pptx"
+  },
+  {
+    "slide_number": 3,
+    "shape_index": 1,
+    "text": "Logo Design: Creating scalable, versatile logos for businesses and brands.\n",
+    "is_title": false,
+    "shape_type": "Google Shape;71;p15",
+    "file_type": "pptx",
+    "file_name": "sample.pptx"
+  },
+  {
+    "slide_number": 4,
+    "shape_index": 1,
+    "text": "2. Branding: Developing comprehensive brand identities, including business cards, letterheads, and other collateral.",
+    "is_title": false,
+    "shape_type": "Google Shape;78;p16",
+    "file_type": "pptx",
+    "file_name": "sample.pptx"
+  },
+  {
+    "slide_number": 5,
+    "shape_index": 1,
+    "text": "3. Print Design: Designing posters, flyers, brochures, magazine layouts, and other print materials.",
+    "is_title": false,
+    "shape_type": "Google Shape;85;p17",
+    "file_type": "pptx",
+    "file_name": "sample.pptx"
+  },
+  {
+    "slide_number": 6,
+    "shape_index": 1,
+    "text": "4. Packaging Design: Creating product packaging, labels, and mockups.",
+    "is_title": false,
+    "shape_type": "Google Shape;92;p18",
+    "file_type": "pptx",
+    "file_name": "sample.pptx"
+  },
+  {
+    "slide_number": 7,
+    "shape_index": 1,
+    "text": "5. Icon Design: Developing icons for apps, websites, and user interfaces.",
+    "is_title": false,
+    "shape_type": "Google Shape;99;p19",
+    "file_type": "pptx",
+    "file_name": "sample.pptx"
+  },
+  {
+    "slide_number": 7,
+    "shape_index": 4,
+    "text": "6. Infographic Creation: Designing informative and visually appealing infographics.",
+    "is_title": false,
+    "shape_type": "Google Shape;102;p19",
+    "file_type": "pptx",
+    "file_name": "sample.pptx"
+  },
+  {
+    "slide_number": 8,
+    "shape_index": 1,
+    "text": "7. Web and UI Design: Creating web graphics, buttons, and other interface elements.",
+    "is_title": false,
+    "shape_type": "Google Shape;109;p20",
+    "file_type": "pptx",
+    "file_name": "sample.pptx"
+  },
+  {
+    "slide_number": 8,
+    "shape_index": 2,
+    "text": "8. Typography and Lettering: Designing custom typefaces and lettering.",
+    "is_title": false,
+    "shape_type": "Google Shape;110;p20",
+    "file_type": "pptx",
+    "file_name": "sample.pptx"
+  },
+  {
+    "slide_number": 9,
+    "shape_index": 1,
+    "text": "Vector Artwork",
+    "is_title": false,
+    "shape_type": "Google Shape;117;p21",
+    "file_type": "pptx",
+    "file_name": "sample.pptx"
+  },
+  {
+    "slide_number": 9,
+    "shape_index": 2,
+    "text": "Vector-based art refers to a type of digital graphic that uses mathematical equations to define shapes, lines, and colors. Here's a more detailed explanation:\nVector graphics are made up of paths, which are defined by a start and end point, along with other points, curves, and angles along the way. These paths can be used to create simple shapes or complex illustrations.\nCommon file formats:\nAI (Adobe Illustrator)\nSVG (Scalable Vector Graphics)\nEPS (Encapsulated PostScript)\nPDF (Portable Document Format, when created from vector software)\n",
+    "is_title": false,
+    "shape_type": "Google Shape;118;p21",
+    "file_type": "pptx",
+    "file_name": "sample.pptx"
+  }
+]

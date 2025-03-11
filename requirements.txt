@@ -1,0 +1,19 @@
+# PDF libraries
+PyMuPDF==1.22.5
+pdfplumber==0.10.2
+
+# DOCX libraries
+python-docx==1.0.1
+
+# PPTX libraries
+python-pptx==0.6.21
+
+# Image processing
+Pillow==10.0.1
+
+# Database
+mysql-connector-python==8.0.33
+
+# HTML parsing (for DOCX hyperlinks)
+beautifulsoup4==4.12.2
+lxml==4.9.3

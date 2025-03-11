@@ -1,0 +1,1460 @@
+color,file_name,file_type,font,is_bold,is_italic,page_number,size,text
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,1,17.21540069580078,Attention Is All You Need
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,1,9.962599754333496,Ashish Vaswani
+0,sample.pdf,pdf,CMSY7,False,False,1,6.973800182342529,∗
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.962599754333496,Google Brain
+0,sample.pdf,pdf,SFTT1000,False,False,1,9.962599754333496,avaswani@google.com
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,1,9.962599754333496,Noam Shazeer
+0,sample.pdf,pdf,CMSY7,False,False,1,6.973800182342529,∗
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.962599754333496,Google Brain
+0,sample.pdf,pdf,SFTT1000,False,False,1,9.962599754333496,noam@google.com
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,1,9.962599754333496,Niki Parmar
+0,sample.pdf,pdf,CMSY7,False,False,1,6.973800182342529,∗
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.962599754333496,Google Research
+0,sample.pdf,pdf,SFTT1000,False,False,1,9.962599754333496,nikip@google.com
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,1,9.962599754333496,Jakob Uszkoreit
+0,sample.pdf,pdf,CMSY7,False,False,1,6.973800182342529,∗
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.962599754333496,Google Research
+0,sample.pdf,pdf,SFTT1000,False,False,1,9.962599754333496,usz@google.com
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,1,9.962599754333496,Llion Jones
+0,sample.pdf,pdf,CMSY7,False,False,1,6.973800182342529,∗
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.962599754333496,Google Research
+0,sample.pdf,pdf,SFTT1000,False,False,1,9.962599754333496,llion@google.com
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,1,9.962599754333496,Aidan N. Gomez
+0,sample.pdf,pdf,CMSY7,False,False,1,6.973800182342529,∗ †
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.962599754333496,University of Toronto
+0,sample.pdf,pdf,SFTT1000,False,False,1,9.962599754333496,aidan@cs.toronto.edu
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,1,9.962599754333496,Łukasz Kaiser
+0,sample.pdf,pdf,CMSY7,False,False,1,6.973800182342529,∗
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.962599754333496,Google Brain
+0,sample.pdf,pdf,SFTT1000,False,False,1,9.962599754333496,lukaszkaiser@google.com
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,1,9.962599754333496,Illia Polosukhin
+0,sample.pdf,pdf,CMSY7,False,False,1,6.973800182342529,∗ ‡
+0,sample.pdf,pdf,SFTT1000,False,False,1,9.962599754333496,illia.polosukhin@gmail.com
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,1,11.9552001953125,Abstract
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,10.061732292175293,The dominant sequence transduction models are based on complex recurrent or
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,10.061732292175293,convolutional neural networks that include an encoder and a decoder. The best
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,10.061732292175293,performing models also connect the encoder and decoder through an attention
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,10.061732292175293,"mechanism. We propose a new simple network architecture, the Transformer,"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.862470626831055,"based solely on attention mechanisms, dispensing with recurrence and convolutions"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,10.061732292175293,entirely. Experiments on two machine translation tasks show these models to
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,10.022196769714355,be superior in quality while being more parallelizable and requiring signiﬁcantly
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,10.061732292175293,less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,10.061732292175293,"to-German translation task, improving over the existing best results, including"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.862470626831055,"ensembles, by over 2 BLEU. On the WMT 2014 English-to-French translation task,"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.862470626831055,our model establishes a new single-model state-of-the-art BLEU score of 41.0 after
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,10.061732292175293,"training for 3.5 days on eight GPUs, a small fraction of the training costs of the"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.962599754333496,best models from the literature.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,1,11.9552001953125,1
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,1,11.9552001953125,Introduction
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,10.061732292175293,"Recurrent neural networks, long short-term memory ["
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.962599754333496,12
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,10.061732292175293,] and gated recurrent [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.962599754333496,7
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,10.061732292175293,] neural networks
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,10.046924591064453,"in particular, have been ﬁrmly established as state of the art approaches in sequence modeling and"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,10.061732292175293,transduction problems such as language modeling and machine translation [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.962599754333496,29
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,10.061732292175293,","
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.962599754333496, 2
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,10.061732292175293,","
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.962599754333496, 5
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,10.061732292175293,]. Numerous
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.862470626831055,efforts have since continued to push the boundaries of recurrent language models and encoder-decoder
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.962599754333496,"architectures [31, 21, 13]."
+0,sample.pdf,pdf,CMSY6,False,False,1,5.97760009765625,∗
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,8.880810737609863,Equal contribution. Listing order is random. Jakob proposed replacing RNNs with self-attention and started
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.00219440460205,"the effort to evaluate this idea. Ashish, with Illia, designed and implemented the ﬁrst Transformer models and"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,8.876283645629883,"has been crucially involved in every aspect of this work. Noam proposed scaled dot-product attention, multi-head"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,9.015580177307129,attention and the parameter-free position representation and became the other person involved in nearly every
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,8.957428932189941,"detail. Niki designed, implemented, tuned and evaluated countless model variants in our original codebase and"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,8.930462837219238,"tensor2tensor. Llion also experimented with novel model variants, was responsible for our initial codebase, and"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,8.876283645629883,efﬁcient inference and visualizations. Lukasz and Aidan spent countless long days designing various parts of and
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,8.876283645629883,"implementing tensor2tensor, replacing our earlier codebase, greatly improving results and massively accelerating"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,8.966400146484375,our research.
+0,sample.pdf,pdf,CMSY6,False,False,1,5.97760009765625,†
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,8.966400146484375,Work performed while at Google Brain.
+0,sample.pdf,pdf,CMSY6,False,False,1,5.97760009765625,‡
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,8.966400146484375,Work performed while at Google Research.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,1,8.966400146484375,"31st Conference on Neural Information Processing Systems (NIPS 2017), Long Beach, CA, USA."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293,Recurrent models typically factor computation along the symbol positions of the input and output
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.982504844665527,"sequences. Aligning the positions to steps in computation time, they generate a sequence of hidden"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.9126615524292,states
+0,sample.pdf,pdf,CMMI10,False,False,2,9.962599754333496, h
+0,sample.pdf,pdf,CMMI7,False,False,2,6.973800182342529,t
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.9126615524292,", as a function of the previous hidden state"
+0,sample.pdf,pdf,CMMI10,False,False,2,9.962599754333496, h
+0,sample.pdf,pdf,CMMI7,False,False,2,6.973800182342529,t
+0,sample.pdf,pdf,CMSY7,False,False,2,6.973800182342529,−
+0,sample.pdf,pdf,CMR7,False,False,2,6.973800182342529,1
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.9126615524292, and the input for position
+0,sample.pdf,pdf,CMMI10,False,False,2,9.962599754333496, t
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.9126615524292,. This inherently
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.862470626831055,"sequential nature precludes parallelization within training examples, which becomes critical at longer"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.947644233703613,"sequence lengths, as memory constraints limit batching across examples. Recent work has achieved"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.862470626831055,signiﬁcant improvements in computational efﬁciency through factorization tricks [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,18
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.862470626831055,] and conditional
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.051863670349121,computation [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,26
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.051863670349121,"], while also improving model performance in case of the latter. The fundamental"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,"constraint of sequential computation, however, remains."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.932666778564453,Attention mechanisms have become an integral part of compelling sequence modeling and transduc-
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.982504844665527,"tion models in various tasks, allowing modeling of dependencies without regard to their distance in"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.862470626831055,the input or output sequences [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,2
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.862470626831055,","
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496, 16
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.862470626831055,]. In all but a few cases [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,22
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.862470626831055,"], however, such attention mechanisms"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,are used in conjunction with a recurrent network.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293,"In this work we propose the Transformer, a model architecture eschewing recurrence and instead"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.032095909118652,relying entirely on an attention mechanism to draw global dependencies between input and output.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,The Transformer allows for signiﬁcantly more parallelization and can reach a new state of the art in
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,translation quality after being trained for as little as twelve hours on eight P100 GPUs.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,2,11.9552001953125,2
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,2,11.9552001953125,Background
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.902643203735352,The goal of reducing sequential computation also forms the foundation of the Extended Neural GPU
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.862470626831055,[
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,20
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.862470626831055,"], ByteNet ["
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,15
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.862470626831055,] and ConvS2S [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,8
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.862470626831055,"], all of which use convolutional neural networks as basic building"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.862470626831055,"block, computing hidden representations in parallel for all input and output positions. In these models,"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.862470626831055,the number of operations required to relate signals from two arbitrary input or output positions grows
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.877554893493652,"in the distance between positions, linearly for ConvS2S and logarithmically for ByteNet. This makes"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293,it more difﬁcult to learn dependencies between distant positions [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,11
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293,]. In the Transformer this is
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293,"reduced to a constant number of operations, albeit at the cost of reduced effective resolution due"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293,"to averaging attention-weighted positions, an effect we counteract with Multi-Head Attention as"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,described in section 3.2.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.89261531829834,"Self-attention, sometimes called intra-attention is an attention mechanism relating different positions"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293,of a single sequence in order to compute a representation of the sequence. Self-attention has been
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.95761775970459,"used successfully in a variety of tasks including reading comprehension, abstractive summarization,"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,"textual entailment and learning task-independent sentence representations [4, 22, 23, 19]."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293,End-to-end memory networks are based on a recurrent attention mechanism instead of sequence-
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.867501258850098,aligned recurrence and have been shown to perform well on simple-language question answering and
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,language modeling tasks [28].
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293,"To the best of our knowledge, however, the Transformer is the ﬁrst transduction model relying"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,entirely on self-attention to compute representations of its input and output without using sequence-
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.947644233703613,"aligned RNNs or convolution. In the following sections, we will describe the Transformer, motivate"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,"self-attention and discuss its advantages over models such as [14, 15] and [8]."
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,2,11.9552001953125,3
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,2,11.9552001953125,Model Architecture
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.937662124633789,Most competitive neural sequence transduction models have an encoder-decoder structure [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,5
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.937662124633789,","
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496, 2
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.937662124633789,","
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496, 29
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.937662124633789,].
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293,"Here, the encoder maps an input sequence of symbol representations"
+0,sample.pdf,pdf,CMR10,False,False,2,9.962599754333496, (
+0,sample.pdf,pdf,CMMI10,False,False,2,9.962599754333496,x
+0,sample.pdf,pdf,CMR7,False,False,2,6.973800182342529,1
+0,sample.pdf,pdf,CMMI10,False,False,2,9.962599754333496,", ..., x"
+0,sample.pdf,pdf,CMMI7,False,False,2,6.973800182342529,n
+0,sample.pdf,pdf,CMR10,False,False,2,9.962599754333496,)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293, to a sequence
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293,of continuous representations
+0,sample.pdf,pdf,CMBX10,False,False,2,9.962599754333496, z
+0,sample.pdf,pdf,CMR10,False,False,2,9.962599754333496, = (
+0,sample.pdf,pdf,CMMI10,False,False,2,9.962599754333496,z
+0,sample.pdf,pdf,CMR7,False,False,2,6.973800182342529,1
+0,sample.pdf,pdf,CMMI10,False,False,2,9.962599754333496,", ..., z"
+0,sample.pdf,pdf,CMMI7,False,False,2,6.973800182342529,n
+0,sample.pdf,pdf,CMR10,False,False,2,9.962599754333496,)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293,. Given
+0,sample.pdf,pdf,CMBX10,False,False,2,9.962599754333496, z
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293,", the decoder then generates an output"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293,sequence
+0,sample.pdf,pdf,CMR10,False,False,2,9.962599754333496, (
+0,sample.pdf,pdf,CMMI10,False,False,2,9.962599754333496,y
+0,sample.pdf,pdf,CMR7,False,False,2,6.973800182342529,1
+0,sample.pdf,pdf,CMMI10,False,False,2,9.962599754333496,", ..., y"
+0,sample.pdf,pdf,CMMI7,False,False,2,6.973800182342529,m
+0,sample.pdf,pdf,CMR10,False,False,2,9.962599754333496,)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293, of symbols one element at a time. At each step the model is auto-regressive
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,"[9], consuming the previously generated symbols as additional input when generating the next."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.022196769714355,"The Transformer follows this overall architecture using stacked self-attention and point-wise, fully"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293,"connected layers for both the encoder and decoder, shown in the left and right halves of Figure 1,"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,respectively.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,2,9.962599754333496,3.1
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,2,9.962599754333496,Encoder and Decoder Stacks
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,2,9.962599754333496,Encoder:
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293,The encoder is composed of a stack of
+0,sample.pdf,pdf,CMMI10,False,False,2,9.962599754333496, N
+0,sample.pdf,pdf,CMR10,False,False,2,9.962599754333496, = 6
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.061732292175293, identical layers. Each layer has two
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,10.007330894470215,"sub-layers. The ﬁrst is a multi-head self-attention mechanism, and the second is a simple, position-"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,2,9.962599754333496,2
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.962599754333496,Figure 1: The Transformer - model architecture.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,10.041984558105469,wise fully connected feed-forward network. We employ a residual connection [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.962599754333496,10
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,10.041984558105469,] around each of
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,10.061732292175293,"the two sub-layers, followed by layer normalization ["
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.962599754333496,1
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,10.061732292175293,"]. That is, the output of each sub-layer is"
+0,sample.pdf,pdf,CMR10,False,False,3,9.962599754333496,LayerNorm(
+0,sample.pdf,pdf,CMMI10,False,False,3,9.962599754333496,x
+0,sample.pdf,pdf,CMR10,False,False,3,9.962599754333496, + Sublayer(
+0,sample.pdf,pdf,CMMI10,False,False,3,9.962599754333496,x
+0,sample.pdf,pdf,CMR10,False,False,3,9.962599754333496,))
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,10.061732292175293,", where"
+0,sample.pdf,pdf,CMR10,False,False,3,9.962599754333496, Sublayer(
+0,sample.pdf,pdf,CMMI10,False,False,3,9.962599754333496,x
+0,sample.pdf,pdf,CMR10,False,False,3,9.962599754333496,)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,10.061732292175293, is the function implemented by the sub-layer
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.962599754333496,"itself. To facilitate these residual connections, all sub-layers in the model, as well as the embedding"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.962599754333496,"layers, produce outputs of dimension"
+0,sample.pdf,pdf,CMMI10,False,False,3,9.962599754333496, d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,6.973800182342529,model
+0,sample.pdf,pdf,CMR10,False,False,3,9.962599754333496, = 512
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.962599754333496,.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,3,9.962599754333496,Decoder:
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.862470626831055,The decoder is also composed of a stack of
+0,sample.pdf,pdf,CMMI10,False,False,3,9.962599754333496, N
+0,sample.pdf,pdf,CMR10,False,False,3,9.962599754333496, = 6
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.862470626831055, identical layers. In addition to the two
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,10.061732292175293,"sub-layers in each encoder layer, the decoder inserts a third sub-layer, which performs multi-head"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.862470626831055,"attention over the output of the encoder stack. Similar to the encoder, we employ residual connections"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,10.061732292175293,"around each of the sub-layers, followed by layer normalization. We also modify the self-attention"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,10.061732292175293,sub-layer in the decoder stack to prevent positions from attending to subsequent positions. This
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.952631950378418,"masking, combined with fact that the output embeddings are offset by one position, ensures that the"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.962599754333496,predictions for position
+0,sample.pdf,pdf,CMMI10,False,False,3,9.962599754333496, i
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.962599754333496, can depend only on the known outputs at positions less than
+0,sample.pdf,pdf,CMMI10,False,False,3,9.962599754333496, i
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.962599754333496,.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,3,9.962599754333496,3.2
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,3,9.962599754333496,Attention
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.952631950378418,"An attention function can be described as mapping a query and a set of key-value pairs to an output,"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.937662124633789,"where the query, keys, values, and output are all vectors. The output is computed as a weighted sum"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.867501258850098,"of the values, where the weight assigned to each value is computed by a compatibility function of the"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.962599754333496,query with the corresponding key.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,3,9.962599754333496,3.2.1
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,3,9.962599754333496,Scaled Dot-Product Attention
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,10.061732292175293,"We call our particular attention ""Scaled Dot-Product Attention"" (Figure 2). The input consists of"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.972557067871094,queries and keys of dimension
+0,sample.pdf,pdf,CMMI10,False,False,3,9.962599754333496, d
+0,sample.pdf,pdf,CMMI7,False,False,3,6.973800182342529,k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.972557067871094,", and values of dimension"
+0,sample.pdf,pdf,CMMI10,False,False,3,9.962599754333496, d
+0,sample.pdf,pdf,CMMI7,False,False,3,6.973800182342529,v
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.972557067871094,. We compute the dot products of the
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,3,9.962599754333496,3
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.962599754333496,Scaled Dot-Product Attention
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.962599754333496,Multi-Head Attention
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,10.061732292175293,Figure 2: (left) Scaled Dot-Product Attention. (right) Multi-Head Attention consists of several
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.962599754333496,attention layers running in parallel.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.997407913208008,"query with all keys, divide each by"
+0,sample.pdf,pdf,CMSY10,False,False,4,9.962599754333496, 
+0,sample.pdf,pdf,CMSY10,False,False,4,9.962599754333496,√
+0,sample.pdf,pdf,CMMI10,False,False,4,9.962599754333496,d
+0,sample.pdf,pdf,CMMI7,False,False,4,6.973800182342529,k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.997407913208008,", and apply a softmax function to obtain the weights on the"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.962599754333496,values.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,10.061732292175293,"In practice, we compute the attention function on a set of queries simultaneously, packed together"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.977532386779785,into a matrix
+0,sample.pdf,pdf,CMMI10,False,False,4,9.962599754333496, Q
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.977532386779785,. The keys and values are also packed together into matrices
+0,sample.pdf,pdf,CMMI10,False,False,4,9.962599754333496, K
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.977532386779785, and
+0,sample.pdf,pdf,CMMI10,False,False,4,9.962599754333496, V
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.977532386779785, . We compute
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.962599754333496,the matrix of outputs as:
+0,sample.pdf,pdf,CMR10,False,False,4,9.962599754333496,Attention(
+0,sample.pdf,pdf,CMMI10,False,False,4,9.962599754333496,"Q, K, V"
+0,sample.pdf,pdf,CMR10,False,False,4,9.962599754333496, ) = softmax(
+0,sample.pdf,pdf,CMMI10,False,False,4,9.962599754333496,QK
+0,sample.pdf,pdf,CMMI7,False,False,4,6.973800182342529,T
+0,sample.pdf,pdf,CMSY10,False,False,4,9.962599754333496,√
+0,sample.pdf,pdf,CMMI10,False,False,4,9.962599754333496,d
+0,sample.pdf,pdf,CMMI7,False,False,4,6.973800182342529,k
+0,sample.pdf,pdf,CMR10,False,False,4,9.962599754333496,)
+0,sample.pdf,pdf,CMMI10,False,False,4,9.962599754333496,V
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.962599754333496,(1)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.987475395202637,The two most commonly used attention functions are additive attention [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.962599754333496,2
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.987475395202637,"], and dot-product (multi-"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.972557067871094,"plicative) attention. Dot-product attention is identical to our algorithm, except for the scaling factor"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,10.007330894470215,of
+0,sample.pdf,pdf,CMR7,False,False,4,6.973800182342529,1
+0,sample.pdf,pdf,CMSY7,False,False,4,6.973800182342529,√
+0,sample.pdf,pdf,CMMI7,False,False,4,6.973800182342529,d
+0,sample.pdf,pdf,CMMI5,False,False,4,4.981299877166748,k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,10.007330894470215, . Additive attention computes the compatibility function using a feed-forward network with
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,10.061732292175293,"a single hidden layer. While the two are similar in theoretical complexity, dot-product attention is"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.887598037719727,"much faster and more space-efﬁcient in practice, since it can be implemented using highly optimized"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.962599754333496,matrix multiplication code.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.992443084716797,While for small values of
+0,sample.pdf,pdf,CMMI10,False,False,4,9.962599754333496, d
+0,sample.pdf,pdf,CMMI7,False,False,4,6.973800182342529,k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.992443084716797," the two mechanisms perform similarly, additive attention outperforms"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.987475395202637,dot product attention without scaling for larger values of
+0,sample.pdf,pdf,CMMI10,False,False,4,9.962599754333496, d
+0,sample.pdf,pdf,CMMI7,False,False,4,6.973800182342529,k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.987475395202637, [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.962599754333496,3
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.987475395202637,]. We suspect that for large values of
+0,sample.pdf,pdf,CMMI10,False,False,4,9.962599754333496,d
+0,sample.pdf,pdf,CMMI7,False,False,4,6.973800182342529,k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.89261531829834,", the dot products grow large in magnitude, pushing the softmax function into regions where it has"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.962599754333496,extremely small gradients
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,6.973800182342529, 
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,6.973800182342529,4
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.962599754333496,". To counteract this effect, we scale the dot products by"
+0,sample.pdf,pdf,CMR7,False,False,4,6.973800182342529,1
+0,sample.pdf,pdf,CMSY7,False,False,4,6.973800182342529,√
+0,sample.pdf,pdf,CMMI7,False,False,4,6.973800182342529,d
+0,sample.pdf,pdf,CMMI5,False,False,4,4.981299877166748,k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.962599754333496, .
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,4,9.962599754333496,3.2.2
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,4,9.962599754333496,Multi-Head Attention
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,10.037040710449219,Instead of performing a single attention function with
+0,sample.pdf,pdf,CMMI10,False,False,4,9.962599754333496, d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,6.973800182342529,model
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,10.037040710449219,"-dimensional keys, values and queries,"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.95761775970459,"we found it beneﬁcial to linearly project the queries, keys and values"
+0,sample.pdf,pdf,CMMI10,False,False,4,9.962599754333496, h
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.95761775970459," times with different, learned"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.982504844665527,linear projections to
+0,sample.pdf,pdf,CMMI10,False,False,4,9.962599754333496, d
+0,sample.pdf,pdf,CMMI7,False,False,4,6.973800182342529,k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.982504844665527,","
+0,sample.pdf,pdf,CMMI10,False,False,4,9.962599754333496, d
+0,sample.pdf,pdf,CMMI7,False,False,4,6.973800182342529,k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.982504844665527, and
+0,sample.pdf,pdf,CMMI10,False,False,4,9.962599754333496, d
+0,sample.pdf,pdf,CMMI7,False,False,4,6.973800182342529,v
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.982504844665527," dimensions, respectively. On each of these projected versions of"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.947644233703613,"queries, keys and values we then perform the attention function in parallel, yielding"
+0,sample.pdf,pdf,CMMI10,False,False,4,9.962599754333496, d
+0,sample.pdf,pdf,CMMI7,False,False,4,6.973800182342529,v
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.947644233703613,-dimensional
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,10.061732292175293,"output values. These are concatenated and once again projected, resulting in the ﬁnal values, as"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.962599754333496,depicted in Figure 2.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.982504844665527,Multi-head attention allows the model to jointly attend to information from different representation
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.962599754333496,"subspaces at different positions. With a single attention head, averaging inhibits this."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,5.97760009765625,4
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,8.876283645629883,"To illustrate why the dot products get large, assume that the components of"
+0,sample.pdf,pdf,CMMI9,False,False,4,8.966400146484375, q
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,8.876283645629883, and
+0,sample.pdf,pdf,CMMI9,False,False,4,8.966400146484375, k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,8.876283645629883, are independent random
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,8.952940940856934,variables with mean
+0,sample.pdf,pdf,CMR9,False,False,4,8.966400146484375, 0
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,8.952940940856934, and variance
+0,sample.pdf,pdf,CMR9,False,False,4,8.966400146484375, 1
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,8.952940940856934,". Then their dot product,"
+0,sample.pdf,pdf,CMMI9,False,False,4,8.966400146484375, q
+0,sample.pdf,pdf,CMSY9,False,False,4,8.966400146484375, ·
+0,sample.pdf,pdf,CMMI9,False,False,4,8.966400146484375, k
+0,sample.pdf,pdf,CMR9,False,False,4,8.966400146484375, =
+0,sample.pdf,pdf,CMEX9,False,False,4,8.966400146484375, 
+0,sample.pdf,pdf,CMEX9,False,False,4,8.966400146484375,�
+0,sample.pdf,pdf,CMMI6,False,False,4,5.97760009765625,d
+0,sample.pdf,pdf,CMMI5,False,False,4,4.981299877166748,k
+0,sample.pdf,pdf,CMMI6,False,False,4,5.97760009765625,i
+0,sample.pdf,pdf,CMR6,False,False,4,5.97760009765625,=1
+0,sample.pdf,pdf,CMMI9,False,False,4,8.966400146484375, 
+0,sample.pdf,pdf,CMMI9,False,False,4,8.966400146484375,q
+0,sample.pdf,pdf,CMMI6,False,False,4,5.97760009765625,i
+0,sample.pdf,pdf,CMMI9,False,False,4,8.966400146484375,k
+0,sample.pdf,pdf,CMMI6,False,False,4,5.97760009765625,i
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,8.952940940856934,", has mean"
+0,sample.pdf,pdf,CMR9,False,False,4,8.966400146484375, 0
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,8.952940940856934, and variance
+0,sample.pdf,pdf,CMMI9,False,False,4,8.966400146484375, d
+0,sample.pdf,pdf,CMMI6,False,False,4,5.97760009765625,k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,8.952940940856934,.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,4,9.962599754333496,4
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496,MultiHead(
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496,"Q, K, V"
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496, ) = Concat(head
+0,sample.pdf,pdf,CMR7,False,False,5,6.973800182342529,1
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496,", ...,"
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496, head
+0,sample.pdf,pdf,CMR7,False,False,5,6.973800182342529,h
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496,)
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496,W
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529, 
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,O
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.962599754333496,where
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496, head
+0,sample.pdf,pdf,CMR7,False,False,5,6.973800182342529,i
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496, = Attention(
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496,QW
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529, 
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,Q
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,i
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496, 
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496,", KW"
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529, K
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,i
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496, 
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496,", V W"
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529, V
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,i
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496, 
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496,)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.862470626831055,Where the projections are parameter matrices
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496, W
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529, 
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,Q
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,i
+0,sample.pdf,pdf,CMSY10,False,False,5,9.962599754333496,∈
+0,sample.pdf,pdf,MSBM10,False,False,5,9.962599754333496, R
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,4.981299877166748,model
+0,sample.pdf,pdf,CMSY7,False,False,5,6.973800182342529,×
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,d
+0,sample.pdf,pdf,CMMI5,False,False,5,4.981299877166748,k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.862470626831055,","
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496, W
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529, 
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,K
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,i
+0,sample.pdf,pdf,CMSY10,False,False,5,9.962599754333496,∈
+0,sample.pdf,pdf,MSBM10,False,False,5,9.962599754333496, R
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,4.981299877166748,model
+0,sample.pdf,pdf,CMSY7,False,False,5,6.973800182342529,×
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,d
+0,sample.pdf,pdf,CMMI5,False,False,5,4.981299877166748,k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.862470626831055,","
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496, W
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529, 
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,V
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,i
+0,sample.pdf,pdf,CMSY10,False,False,5,9.962599754333496,∈
+0,sample.pdf,pdf,MSBM10,False,False,5,9.962599754333496, R
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,4.981299877166748,model
+0,sample.pdf,pdf,CMSY7,False,False,5,6.973800182342529,×
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,d
+0,sample.pdf,pdf,CMMI5,False,False,5,4.981299877166748,v
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.962599754333496,and
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496, W
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529, 
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,O
+0,sample.pdf,pdf,CMSY10,False,False,5,9.962599754333496, 
+0,sample.pdf,pdf,CMSY10,False,False,5,9.962599754333496,∈
+0,sample.pdf,pdf,MSBM10,False,False,5,9.962599754333496, R
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,hd
+0,sample.pdf,pdf,CMMI5,False,False,5,4.981299877166748,v
+0,sample.pdf,pdf,CMSY7,False,False,5,6.973800182342529,×
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,4.981299877166748,model
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.962599754333496,.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,10.061732292175293,In this work we employ
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496, h
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496, = 8
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,10.061732292175293," parallel attention layers, or heads. For each of these we use"
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496,d
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,k
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496, =
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496, d
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,v
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496, =
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496, d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,6.973800182342529,model
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496,/h
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496, = 64
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.942654609680176,". Due to the reduced dimension of each head, the total computational cost"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.962599754333496,is similar to that of single-head attention with full dimensionality.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,5,9.962599754333496,3.2.3
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,5,9.962599754333496,Applications of Attention in our Model
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.962599754333496,The Transformer uses multi-head attention in three different ways:
+0,sample.pdf,pdf,CMSY10,False,False,5,9.962599754333496,•
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,10.061732292175293," In ""encoder-decoder attention"" layers, the queries come from the previous decoder layer,"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,10.061732292175293,and the memory keys and values come from the output of the encoder. This allows every
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,10.032095909118652,position in the decoder to attend over all positions in the input sequence. This mimics the
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,10.061732292175293,typical encoder-decoder attention mechanisms in sequence-to-sequence models such as
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.962599754333496,"[31, 2, 8]."
+0,sample.pdf,pdf,CMSY10,False,False,5,9.962599754333496,•
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,10.061732292175293," The encoder contains self-attention layers. In a self-attention layer all of the keys, values"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,10.022196769714355,"and queries come from the same place, in this case, the output of the previous layer in the"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.90765380859375,encoder. Each position in the encoder can attend to all positions in the previous layer of the
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.962599754333496,encoder.
+0,sample.pdf,pdf,CMSY10,False,False,5,9.962599754333496,•
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.887598037719727," Similarly, self-attention layers in the decoder allow each position in the decoder to attend to"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,10.012289047241211,all positions in the decoder up to and including that position. We need to prevent leftward
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.877554893493652,information ﬂow in the decoder to preserve the auto-regressive property. We implement this
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.862470626831055,inside of scaled dot-product attention by masking out (setting to
+0,sample.pdf,pdf,CMSY10,False,False,5,9.962599754333496, −∞
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.862470626831055,) all values in the input
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.962599754333496,of the softmax which correspond to illegal connections. See Figure 2.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,5,9.962599754333496,3.3
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,5,9.962599754333496,Position-wise Feed-Forward Networks
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,10.061732292175293,"In addition to attention sub-layers, each of the layers in our encoder and decoder contains a fully"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,10.007330894470215,"connected feed-forward network, which is applied to each position separately and identically. This"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.962599754333496,consists of two linear transformations with a ReLU activation in between.
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496,FFN(
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496,x
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496,) = max(0
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496,", xW"
+0,sample.pdf,pdf,CMR7,False,False,5,6.973800182342529,1
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496, +
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496, b
+0,sample.pdf,pdf,CMR7,False,False,5,6.973800182342529,1
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496,)
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496,W
+0,sample.pdf,pdf,CMR7,False,False,5,6.973800182342529,2
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496, +
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496, b
+0,sample.pdf,pdf,CMR7,False,False,5,6.973800182342529,2
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.962599754333496,(2)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.862470626831055,"While the linear transformations are the same across different positions, they use different parameters"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,10.061732292175293,from layer to layer. Another way of describing this is as two convolutions with kernel size 1.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,10.061732292175293,The dimensionality of input and output is
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496, d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,6.973800182342529,model
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496, = 512
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,10.061732292175293,", and the inner-layer has dimensionality"
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496,d
+0,sample.pdf,pdf,CMMI7,False,False,5,6.973800182342529,ff
+0,sample.pdf,pdf,CMR10,False,False,5,9.962599754333496, = 2048
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.962599754333496,.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,5,9.962599754333496,3.4
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,5,9.962599754333496,Embeddings and Softmax
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,10.061732292175293,"Similarly to other sequence transduction models, we use learned embeddings to convert the input"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.862470626831055,tokens and output tokens to vectors of dimension
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496, d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,6.973800182342529,model
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.862470626831055,. We also use the usual learned linear transfor-
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.982504844665527,mation and softmax function to convert the decoder output to predicted next-token probabilities. In
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.9176664352417,"our model, we share the same weight matrix between the two embedding layers and the pre-softmax"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.862470626831055,"linear transformation, similar to ["
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.962599754333496,24
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.862470626831055,"]. In the embedding layers, we multiply those weights by"
+0,sample.pdf,pdf,CMSY10,False,False,5,9.962599754333496, 
+0,sample.pdf,pdf,CMSY10,False,False,5,9.962599754333496,√
+0,sample.pdf,pdf,CMMI10,False,False,5,9.962599754333496,d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,6.973800182342529,model
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.862470626831055,.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,5,9.962599754333496,3.5
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,5,9.962599754333496,Positional Encoding
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.862470626831055,"Since our model contains no recurrence and no convolution, in order for the model to make use of the"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.9126615524292,"order of the sequence, we must inject some information about the relative or absolute position of the"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,10.061732292175293,"tokens in the sequence. To this end, we add ""positional encodings"" to the input embeddings at the"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,5,9.962599754333496,5
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.862470626831055,"Table 1: Maximum path lengths, per-layer complexity and minimum number of sequential operations"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.987475395202637,for different layer types.
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, n
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.987475395202637," is the sequence length,"
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.987475395202637," is the representation dimension,"
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.987475395202637, is the kernel
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,size of convolutions and
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, r
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496, the size of the neighborhood in restricted self-attention.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,Layer Type
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,Complexity per Layer
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,Sequential
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,Maximum Path Length
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,Operations
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,Self-Attention
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,O
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,n
+0,sample.pdf,pdf,CMR7,False,False,6,6.973800182342529,2
+0,sample.pdf,pdf,CMSY10,False,False,6,9.962599754333496, 
+0,sample.pdf,pdf,CMSY10,False,False,6,9.962599754333496,·
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, d
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,)
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,O
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,(1)
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,O
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,(1)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,Recurrent
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,O
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,n
+0,sample.pdf,pdf,CMSY10,False,False,6,9.962599754333496, ·
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, d
+0,sample.pdf,pdf,CMR7,False,False,6,6.973800182342529,2
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,)
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,O
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,n
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,)
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,O
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,n
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,Convolutional
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,O
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,k
+0,sample.pdf,pdf,CMSY10,False,False,6,9.962599754333496, ·
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, n
+0,sample.pdf,pdf,CMSY10,False,False,6,9.962599754333496, ·
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, d
+0,sample.pdf,pdf,CMR7,False,False,6,6.973800182342529,2
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,)
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,O
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,(1)
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,O
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,log
+0,sample.pdf,pdf,CMMI7,False,False,6,6.973800182342529,k
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,n
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,))
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,Self-Attention (restricted)
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,O
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,r
+0,sample.pdf,pdf,CMSY10,False,False,6,9.962599754333496, ·
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, n
+0,sample.pdf,pdf,CMSY10,False,False,6,9.962599754333496, ·
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, d
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,)
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,O
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,(1)
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,O
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,n/r
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.862470626831055,bottoms of the encoder and decoder stacks. The positional encodings have the same dimension
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,6.973800182342529,model
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.927669525146484,"as the embeddings, so that the two can be summed. There are many choices of positional encodings,"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,learned and ﬁxed [8].
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,"In this work, we use sine and cosine functions of different frequencies:"
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,PE
+0,sample.pdf,pdf,CMR7,False,False,6,6.973800182342529,(
+0,sample.pdf,pdf,CMMI7,False,False,6,6.973800182342529,"pos,"
+0,sample.pdf,pdf,CMR7,False,False,6,6.973800182342529,2
+0,sample.pdf,pdf,CMMI7,False,False,6,6.973800182342529,i
+0,sample.pdf,pdf,CMR7,False,False,6,6.973800182342529,)
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496, =
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, sin
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,pos/
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,10000
+0,sample.pdf,pdf,CMR7,False,False,6,6.973800182342529,2
+0,sample.pdf,pdf,CMMI7,False,False,6,6.973800182342529,i/d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,4.981299877166748,model
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,)
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,PE
+0,sample.pdf,pdf,CMR7,False,False,6,6.973800182342529,(
+0,sample.pdf,pdf,CMMI7,False,False,6,6.973800182342529,"pos,"
+0,sample.pdf,pdf,CMR7,False,False,6,6.973800182342529,2
+0,sample.pdf,pdf,CMMI7,False,False,6,6.973800182342529,i
+0,sample.pdf,pdf,CMR7,False,False,6,6.973800182342529,+1)
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496, =
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, cos
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,pos/
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,10000
+0,sample.pdf,pdf,CMR7,False,False,6,6.973800182342529,2
+0,sample.pdf,pdf,CMMI7,False,False,6,6.973800182342529,i/d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,4.981299877166748,model
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.95761775970459,where
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, pos
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.95761775970459, is the position and
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, i
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.95761775970459," is the dimension. That is, each dimension of the positional encoding"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.862470626831055,corresponds to a sinusoid. The wavelengths form a geometric progression from
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496, 2
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,π
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.862470626831055, to
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496, 10000
+0,sample.pdf,pdf,CMSY10,False,False,6,9.962599754333496, ·
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496, 2
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,π
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.862470626831055,. We
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.061732292175293,chose this function because we hypothesized it would allow the model to easily learn to attend by
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.061732292175293,"relative positions, since for any ﬁxed offset"
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.061732292175293,","
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, PE
+0,sample.pdf,pdf,CMMI7,False,False,6,6.973800182342529,pos
+0,sample.pdf,pdf,CMR7,False,False,6,6.973800182342529,+
+0,sample.pdf,pdf,CMMI7,False,False,6,6.973800182342529,k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.061732292175293, can be represented as a linear function of
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,PE
+0,sample.pdf,pdf,CMMI7,False,False,6,6.973800182342529,pos
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.96757984161377,We also experimented with using learned positional embeddings [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,8
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.96757984161377,"] instead, and found that the two"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.061732292175293,versions produced nearly identical results (see Table 3 row (E)). We chose the sinusoidal version
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.947644233703613,because it may allow the model to extrapolate to sequence lengths longer than the ones encountered
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,during training.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,6,11.9552001953125,4
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,6,11.9552001953125,Why Self-Attention
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.061732292175293,In this section we compare various aspects of self-attention layers to the recurrent and convolu-
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.041984558105469,tional layers commonly used for mapping one variable-length sequence of symbol representations
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,x
+0,sample.pdf,pdf,CMR7,False,False,6,6.973800182342529,1
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,", ..., x"
+0,sample.pdf,pdf,CMMI7,False,False,6,6.973800182342529,n
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.061732292175293, to another sequence of equal length
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496, (
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,z
+0,sample.pdf,pdf,CMR7,False,False,6,6.973800182342529,1
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,", ..., z"
+0,sample.pdf,pdf,CMMI7,False,False,6,6.973800182342529,n
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.061732292175293,", with"
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, x
+0,sample.pdf,pdf,CMMI7,False,False,6,6.973800182342529,i
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,", z"
+0,sample.pdf,pdf,CMMI7,False,False,6,6.973800182342529,i
+0,sample.pdf,pdf,CMSY10,False,False,6,9.962599754333496, ∈
+0,sample.pdf,pdf,MSBM10,False,False,6,9.962599754333496, R
+0,sample.pdf,pdf,CMMI7,False,False,6,6.973800182342529,d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.061732292175293,", such as a hidden"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.952631950378418,layer in a typical sequence transduction encoder or decoder. Motivating our use of self-attention we
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,consider three desiderata.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.96757984161377,One is the total computational complexity per layer. Another is the amount of computation that can
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,"be parallelized, as measured by the minimum number of sequential operations required."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.017244338989258,The third is the path length between long-range dependencies in the network. Learning long-range
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.022196769714355,dependencies is a key challenge in many sequence transduction tasks. One key factor affecting the
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.061732292175293,ability to learn such dependencies is the length of the paths forward and backward signals have to
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.037040710449219,traverse in the network. The shorter these paths between any combination of positions in the input
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.9176664352417,"and output sequences, the easier it is to learn long-range dependencies ["
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,11
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.9176664352417,]. Hence we also compare
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.96757984161377,the maximum path length between any two input and output positions in networks composed of the
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,different layer types.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.862470626831055,"As noted in Table 1, a self-attention layer connects all positions with a constant number of sequentially"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.061732292175293,"executed operations, whereas a recurrent layer requires"
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, O
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496,n
+0,sample.pdf,pdf,CMR10,False,False,6,9.962599754333496,)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.061732292175293, sequential operations. In terms of
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.061732292175293,"computational complexity, self-attention layers are faster than recurrent layers when the sequence"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.061732292175293,length
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, n
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.061732292175293, is smaller than the representation dimensionality
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,10.061732292175293,", which is most often the case with"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.9176664352417,"sentence representations used by state-of-the-art models in machine translations, such as word-piece"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.992443084716797,[
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,31
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.992443084716797,] and byte-pair [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,25
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.992443084716797,] representations. To improve computational performance for tasks involving
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.862470626831055,"very long sequences, self-attention could be restricted to considering only a neighborhood of size"
+0,sample.pdf,pdf,CMMI10,False,False,6,9.962599754333496, r
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.862470626831055, in
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,6,9.962599754333496,6
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.862470626831055,the input sequence centered around the respective output position. This would increase the maximum
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,path length to
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, O
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,n/r
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496,)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,. We plan to investigate this approach further in future work.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.987475395202637,A single convolutional layer with kernel width
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, k < n
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.987475395202637, does not connect all pairs of input and output
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.862470626831055,positions. Doing so requires a stack of
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, O
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,n/k
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496,)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.862470626831055," convolutional layers in the case of contiguous kernels,"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.061732292175293,or
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, O
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,log
+0,sample.pdf,pdf,CMMI7,False,False,7,6.973800182342529,k
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,n
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496,))
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.061732292175293, in the case of dilated convolutions [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,15
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.061732292175293,"], increasing the length of the longest paths"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.012289047241211,between any two positions in the network. Convolutional layers are generally more expensive than
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.061732292175293,"recurrent layers, by a factor of"
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.061732292175293,. Separable convolutions [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,6
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.061732292175293,"], however, decrease the complexity"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.061732292175293,"considerably, to"
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, O
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496,(
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,k
+0,sample.pdf,pdf,CMSY10,False,False,7,9.962599754333496, ·
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, n
+0,sample.pdf,pdf,CMSY10,False,False,7,9.962599754333496, ·
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, d
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496, +
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, n
+0,sample.pdf,pdf,CMSY10,False,False,7,9.962599754333496, ·
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, d
+0,sample.pdf,pdf,CMR7,False,False,7,6.973800182342529,2
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496,)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.061732292175293,. Even with
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, k
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496, =
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, n
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.061732292175293,", however, the complexity of a separable"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.927669525146484,"convolution is equal to the combination of a self-attention layer and a point-wise feed-forward layer,"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,the approach we take in our model.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.862470626831055,"As side beneﬁt, self-attention could yield more interpretable models. We inspect attention distributions"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.9126615524292,from our models and present and discuss examples in the appendix. Not only do individual attention
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.862470626831055,"heads clearly learn to perform different tasks, many appear to exhibit behavior related to the syntactic"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,and semantic structure of the sentences.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,7,11.9552001953125,5
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,7,11.9552001953125,Training
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,This section describes the training regime for our models.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,7,9.962599754333496,5.1
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,7,9.962599754333496,Training Data and Batching
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.061732292175293,We trained on the standard WMT 2014 English-German dataset consisting of about 4.5 million
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.061732292175293,sentence pairs. Sentences were encoded using byte-pair encoding [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,3
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.061732292175293,"], which has a shared source-"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.92266845703125,"target vocabulary of about 37000 tokens. For English-French, we used the signiﬁcantly larger WMT"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.987475395202637,2014 English-French dataset consisting of 36M sentences and split tokens into a 32000 word-piece
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.862470626831055,vocabulary [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,31
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.862470626831055,]. Sentence pairs were batched together by approximate sequence length. Each training
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.061732292175293,batch contained a set of sentence pairs containing approximately 25000 source tokens and 25000
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,target tokens.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,7,9.962599754333496,5.2
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,7,9.962599754333496,Hardware and Schedule
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.061732292175293,We trained our models on one machine with 8 NVIDIA P100 GPUs. For our base models using
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.982504844665527,"the hyperparameters described throughout the paper, each training step took about 0.4 seconds. We"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.862470626831055,"trained the base models for a total of 100,000 steps or 12 hours. For our big models,(described on the"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.061732292175293,"bottom line of table 3), step time was 1.0 seconds. The big models were trained for 300,000 steps"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,(3.5 days).
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,7,9.962599754333496,5.3
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,7,9.962599754333496,Optimizer
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.041984558105469,We used the Adam optimizer [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,17
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.041984558105469,] with
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, β
+0,sample.pdf,pdf,CMR7,False,False,7,6.973800182342529,1
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496, = 0
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496,9
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.041984558105469,","
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, β
+0,sample.pdf,pdf,CMR7,False,False,7,6.973800182342529,2
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496, = 0
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496,98
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.041984558105469, and
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, ϵ
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496, = 10
+0,sample.pdf,pdf,CMSY7,False,False,7,6.973800182342529,−
+0,sample.pdf,pdf,CMR7,False,False,7,6.973800182342529,9
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.041984558105469,. We varied the learning
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,"rate over the course of training, according to the formula:"
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,lrate
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496, =
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, d
+0,sample.pdf,pdf,CMSY7,False,False,7,6.973800182342529,−
+0,sample.pdf,pdf,CMR7,False,False,7,6.973800182342529,0
+0,sample.pdf,pdf,CMMI7,False,False,7,6.973800182342529,.
+0,sample.pdf,pdf,CMR7,False,False,7,6.973800182342529,5
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,6.973800182342529,model
+0,sample.pdf,pdf,CMSY10,False,False,7,9.962599754333496, 
+0,sample.pdf,pdf,CMSY10,False,False,7,9.962599754333496,·
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496, min(
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,step
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,_
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,num
+0,sample.pdf,pdf,CMSY7,False,False,7,6.973800182342529,−
+0,sample.pdf,pdf,CMR7,False,False,7,6.973800182342529,0
+0,sample.pdf,pdf,CMMI7,False,False,7,6.973800182342529,.
+0,sample.pdf,pdf,CMR7,False,False,7,6.973800182342529,5
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,", step"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,_
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,num
+0,sample.pdf,pdf,CMSY10,False,False,7,9.962599754333496, ·
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, warmup
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,_
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,steps
+0,sample.pdf,pdf,CMSY7,False,False,7,6.973800182342529,−
+0,sample.pdf,pdf,CMR7,False,False,7,6.973800182342529,1
+0,sample.pdf,pdf,CMMI7,False,False,7,6.973800182342529,.
+0,sample.pdf,pdf,CMR7,False,False,7,6.973800182342529,5
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496,)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,(3)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.017244338989258,This corresponds to increasing the learning rate linearly for the ﬁrst
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496, warmup
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,_
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,steps
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.017244338989258," training steps,"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.061732292175293,and decreasing it thereafter proportionally to the inverse square root of the step number. We used
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,warmup
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,_
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,steps
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496, = 4000
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,7,9.962599754333496,5.4
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,7,9.962599754333496,Regularization
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,We employ three types of regularization during training:
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,7,9.962599754333496,Residual Dropout
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.927669525146484,We apply dropout [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,27
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.927669525146484,"] to the output of each sub-layer, before it is added to the"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.862470626831055,"sub-layer input and normalized. In addition, we apply dropout to the sums of the embeddings and the"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,10.061732292175293,"positional encodings in both the encoder and decoder stacks. For the base model, we use a rate of"
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,P
+0,sample.pdf,pdf,CMMI7,False,False,7,6.973800182342529,drop
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496, = 0
+0,sample.pdf,pdf,CMMI10,False,False,7,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,7,9.962599754333496,1
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,7,9.962599754333496,7
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,Table 2: The Transformer achieves better BLEU scores than previous state-of-the-art models on the
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,English-to-German and English-to-French newstest2014 tests at a fraction of the training cost.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,Model
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,BLEU
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,Training Cost (FLOPs)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,EN-DE
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,EN-FR
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,EN-DE
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,EN-FR
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,ByteNet [15]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,23.75
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,Deep-Att + PosUnk [32]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,39.2
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,1
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,0
+0,sample.pdf,pdf,CMSY10,False,False,8,9.962599754333496, ·
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 10
+0,sample.pdf,pdf,CMR7,False,False,8,6.973800182342529,20
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,GNMT + RL [31]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,24.6
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,39.92
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,2
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,3
+0,sample.pdf,pdf,CMSY10,False,False,8,9.962599754333496, ·
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 10
+0,sample.pdf,pdf,CMR7,False,False,8,6.973800182342529,19
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,1
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,4
+0,sample.pdf,pdf,CMSY10,False,False,8,9.962599754333496, ·
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 10
+0,sample.pdf,pdf,CMR7,False,False,8,6.973800182342529,20
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,ConvS2S [8]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,25.16
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,40.46
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,9
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,6
+0,sample.pdf,pdf,CMSY10,False,False,8,9.962599754333496, ·
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 10
+0,sample.pdf,pdf,CMR7,False,False,8,6.973800182342529,18
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,1
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,5
+0,sample.pdf,pdf,CMSY10,False,False,8,9.962599754333496, ·
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 10
+0,sample.pdf,pdf,CMR7,False,False,8,6.973800182342529,20
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,MoE [26]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,26.03
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,40.56
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,2
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,0
+0,sample.pdf,pdf,CMSY10,False,False,8,9.962599754333496, ·
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 10
+0,sample.pdf,pdf,CMR7,False,False,8,6.973800182342529,19
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,1
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,2
+0,sample.pdf,pdf,CMSY10,False,False,8,9.962599754333496, ·
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 10
+0,sample.pdf,pdf,CMR7,False,False,8,6.973800182342529,20
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,Deep-Att + PosUnk Ensemble [32]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,40.4
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,8
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,0
+0,sample.pdf,pdf,CMSY10,False,False,8,9.962599754333496, ·
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 10
+0,sample.pdf,pdf,CMR7,False,False,8,6.973800182342529,20
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,GNMT + RL Ensemble [31]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,26.30
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,41.16
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,1
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,8
+0,sample.pdf,pdf,CMSY10,False,False,8,9.962599754333496, ·
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 10
+0,sample.pdf,pdf,CMR7,False,False,8,6.973800182342529,20
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,1
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,1
+0,sample.pdf,pdf,CMSY10,False,False,8,9.962599754333496, ·
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 10
+0,sample.pdf,pdf,CMR7,False,False,8,6.973800182342529,21
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,ConvS2S Ensemble [8]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,26.36
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,8,9.962599754333496,41.29
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,7
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,7
+0,sample.pdf,pdf,CMSY10,False,False,8,9.962599754333496, ·
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 10
+0,sample.pdf,pdf,CMR7,False,False,8,6.973800182342529,19
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,1
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,2
+0,sample.pdf,pdf,CMSY10,False,False,8,9.962599754333496, ·
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 10
+0,sample.pdf,pdf,CMR7,False,False,8,6.973800182342529,21
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,Transformer (base model)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,27.3
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,38.1
+0,sample.pdf,pdf,CMBX10,False,False,8,9.962599754333496,3
+0,sample.pdf,pdf,CMMIB10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMBX10,False,False,8,9.962599754333496,3
+0,sample.pdf,pdf,CMBSY10,False,False,8,9.962599754333496, ·
+0,sample.pdf,pdf,CMBX10,False,False,8,9.962599754333496, 10
+0,sample.pdf,pdf,CMBX7,False,False,8,6.973800182342529,18
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,Transformer (big)
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,8,9.962599754333496,28.4
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,8,9.962599754333496,41.0
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,2
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,3
+0,sample.pdf,pdf,CMSY10,False,False,8,9.962599754333496, ·
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 10
+0,sample.pdf,pdf,CMR7,False,False,8,6.973800182342529,19
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,8,9.962599754333496,Label Smoothing
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.061732292175293,"During training, we employed label smoothing of value"
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496, ϵ
+0,sample.pdf,pdf,CMMI7,False,False,8,6.973800182342529,ls
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, = 0
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,1
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.061732292175293, [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,30
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.061732292175293,]. This
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,"hurts perplexity, as the model learns to be more unsure, but improves accuracy and BLEU score."
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,8,11.9552001953125,6
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,8,11.9552001953125,Results
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,8,9.962599754333496,6.1
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,8,9.962599754333496,Machine Translation
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.862470626831055,"On the WMT 2014 English-to-German translation task, the big transformer model (Transformer (big)"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.9126615524292,in Table 2) outperforms the best previously reported models (including ensembles) by more than
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 2
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,0
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.051863670349121,"BLEU, establishing a new state-of-the-art BLEU score of"
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 28
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,4
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.051863670349121,. The conﬁguration of this model is
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.032095909118652,listed in the bottom line of Table 3. Training took
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 3
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,5
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.032095909118652, days on
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 8
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.032095909118652, P100 GPUs. Even our base model
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,"surpasses all previously published models and ensembles, at a fraction of the training cost of any of"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,the competitive models.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.867501258850098,"On the WMT 2014 English-to-French translation task, our big model achieves a BLEU score of"
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 41
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,0
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.867501258850098,","
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.942654609680176,"outperforming all of the previously published single models, at less than"
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 1
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,/
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,4
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.942654609680176, the training cost of the
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.061732292175293,previous state-of-the-art model. The Transformer (big) model trained for English-to-French used
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,dropout rate
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496, P
+0,sample.pdf,pdf,CMMI7,False,False,8,6.973800182342529,drop
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, = 0
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,1
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,", instead of"
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 0
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,3
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.061732292175293,"For the base models, we used a single model obtained by averaging the last 5 checkpoints, which"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.061732292175293,"were written at 10-minute intervals. For the big models, we averaged the last 20 checkpoints. We"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.061732292175293,used beam search with a beam size of
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 4
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.061732292175293, and length penalty
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496, α
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, = 0
+0,sample.pdf,pdf,CMMI10,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496,6
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.061732292175293, [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,31
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.061732292175293,]. These hyperparameters
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.862470626831055,were chosen after experimentation on the development set. We set the maximum output length during
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,inference to input length +
+0,sample.pdf,pdf,CMR10,False,False,8,9.962599754333496, 50
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,", but terminate early when possible [31]."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.862470626831055,Table 2 summarizes our results and compares our translation quality and training costs to other model
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.947644233703613,architectures from the literature. We estimate the number of ﬂoating point operations used to train a
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.982504844665527,"model by multiplying the training time, the number of GPUs used, and an estimate of the sustained"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,single-precision ﬂoating-point capacity of each GPU
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,6.973800182342529, 
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,6.973800182342529,5
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,8,9.962599754333496,6.2
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,8,9.962599754333496,Model Variations
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.056798934936523,"To evaluate the importance of different components of the Transformer, we varied our base model"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.061732292175293,"in different ways, measuring the change in performance on English-to-German translation on the"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.061732292175293,"development set, newstest2013. We used beam search as described in the previous section, but no"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,checkpoint averaging. We present these results in Table 3.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.862470626831055,"In Table 3 rows (A), we vary the number of attention heads and the attention key and value dimensions,"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,10.061732292175293,"keeping the amount of computation constant, as described in Section 3.2.2. While single-head"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,"attention is 0.9 BLEU worse than the best setting, quality also drops off with too many heads."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,5.97760009765625,5
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,8.966400146484375,"We used values of 2.8, 3.7, 6.0 and 9.5 TFLOPS for K80, K40, M40 and P100, respectively."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,8,9.962599754333496,8
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.882577896118164,Table 3: Variations on the Transformer architecture. Unlisted values are identical to those of the base
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.942654609680176,"model. All metrics are on the English-to-German translation development set, newstest2013. Listed"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,"perplexities are per-wordpiece, according to our byte-pair encoding, and should not be compared to"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,per-word perplexities.
+0,sample.pdf,pdf,CMMI10,False,False,9,9.962599754333496,N
+0,sample.pdf,pdf,CMMI10,False,False,9,9.962599754333496,d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,6.973800182342529,model
+0,sample.pdf,pdf,CMMI10,False,False,9,9.962599754333496,d
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,6.973800182342529,ff
+0,sample.pdf,pdf,CMMI10,False,False,9,9.962599754333496,h
+0,sample.pdf,pdf,CMMI10,False,False,9,9.962599754333496,d
+0,sample.pdf,pdf,CMMI7,False,False,9,6.973800182342529,k
+0,sample.pdf,pdf,CMMI10,False,False,9,9.962599754333496,d
+0,sample.pdf,pdf,CMMI7,False,False,9,6.973800182342529,v
+0,sample.pdf,pdf,CMMI10,False,False,9,9.962599754333496,P
+0,sample.pdf,pdf,CMMI7,False,False,9,6.973800182342529,drop
+0,sample.pdf,pdf,CMMI10,False,False,9,9.962599754333496,ϵ
+0,sample.pdf,pdf,CMMI7,False,False,9,6.973800182342529,ls
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,train
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,PPL
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,BLEU
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,params
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,steps
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,(dev)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,(dev)
+0,sample.pdf,pdf,CMSY10,False,False,9,9.962599754333496,×
+0,sample.pdf,pdf,CMR10,False,False,9,9.962599754333496,10
+0,sample.pdf,pdf,CMR7,False,False,9,6.973800182342529,6
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,base
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,6
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,512
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,2048
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,8
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,64
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,64
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,0.1
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,0.1
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,100K
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,4.92
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,25.8
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,65
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,(A)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,1
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,512
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,512
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,5.29
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,24.9
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,4
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,128
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,128
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,5.00
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,25.5
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,16
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,32
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,32
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,4.91
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,25.8
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,32
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,16
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,16
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,5.01
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,25.4
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,(B)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,16
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,5.16
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,25.1
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,58
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,32
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,5.01
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,25.4
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,60
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,(C)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,2
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,6.11
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,23.7
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,36
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,4
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,5.19
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,25.3
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,50
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,8
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,4.88
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,25.5
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,80
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,256
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,32
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,32
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,5.75
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,24.5
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,28
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,1024
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,128
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,128
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,4.66
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,26.0
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,168
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,1024
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,5.12
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,25.4
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,53
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,4096
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,4.75
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,26.2
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,90
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,(D)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,0.0
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,5.77
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,24.6
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,0.2
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,4.95
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,25.5
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,0.0
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,4.67
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,25.3
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,0.2
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,5.47
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,25.7
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,(E)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,positional embedding instead of sinusoids
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,4.92
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,25.7
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,big
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,6
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,1024
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,4096
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,16
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,0.3
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,300K
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,9,9.962599754333496,4.33
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,9,9.962599754333496,26.4
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,213
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,10.061732292175293,"In Table 3 rows (B), we observe that reducing the attention key size"
+0,sample.pdf,pdf,CMMI10,False,False,9,9.962599754333496, d
+0,sample.pdf,pdf,CMMI7,False,False,9,6.973800182342529,k
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,10.061732292175293, hurts model quality. This
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,10.061732292175293,suggests that determining compatibility is not easy and that a more sophisticated compatibility
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.862470626831055,"function than dot product may be beneﬁcial. We further observe in rows (C) and (D) that, as expected,"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.862470626831055,"bigger models are better, and dropout is very helpful in avoiding over-ﬁtting. In row (E) we replace our"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.952631950378418,sinusoidal positional encoding with learned positional embeddings [
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,8
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.952631950378418,"], and observe nearly identical"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,results to the base model.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,9,11.9552001953125,7
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,9,11.9552001953125,Conclusion
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.972557067871094,"In this work, we presented the Transformer, the ﬁrst sequence transduction model based entirely on"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.95761775970459,"attention, replacing the recurrent layers most commonly used in encoder-decoder architectures with"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,multi-headed self-attention.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,10.061732292175293,"For translation tasks, the Transformer can be trained signiﬁcantly faster than architectures based"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,10.061732292175293,on recurrent or convolutional layers. On both WMT 2014 English-to-German and WMT 2014
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,10.061732292175293,"English-to-French translation tasks, we achieve a new state of the art. In the former task our best"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,model outperforms even all previously reported ensembles.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.942654609680176,We are excited about the future of attention-based models and plan to apply them to other tasks. We
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.887598037719727,plan to extend the Transformer to problems involving input and output modalities other than text and
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,10.061732292175293,"to investigate local, restricted attention mechanisms to efﬁciently handle large inputs and outputs"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.882577896118164,"such as images, audio and video. Making generation less sequential is another research goals of ours."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,10.061732292175293,The code we used to train and evaluate our models is available at
+0,sample.pdf,pdf,SFTT1000,False,False,9,9.962599754333496, https://github.com/
+0,sample.pdf,pdf,SFTT1000,False,False,9,9.962599754333496,tensorflow/tensor2tensor
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,.
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,9,9.962599754333496,Acknowledgements
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,10.061732292175293,We are grateful to Nal Kalchbrenner and Stephan Gouws for their fruitful
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,"comments, corrections and inspiration."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,9,9.962599754333496,9
+0,sample.pdf,pdf,NimbusRomNo9L-Medi,False,False,10,11.9552001953125,References
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[1]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.89261531829834," Jimmy Lei Ba, Jamie Ryan Kiros, and Geoffrey E Hinton. Layer normalization."
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.89261531829834, arXiv preprint
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.962599754333496,arXiv:1607.06450
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,", 2016."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[2]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.862470626831055," Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. Neural machine translation by jointly"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,learning to align and translate.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.962599754333496, CoRR
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,", abs/1409.0473, 2014."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[3]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.867501258850098," Denny Britz, Anna Goldie, Minh-Thang Luong, and Quoc V. Le. Massive exploration of neural"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,machine translation architectures.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.962599754333496, CoRR
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,", abs/1703.03906, 2017."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[4]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.882577896118164," Jianpeng Cheng, Li Dong, and Mirella Lapata. Long short-term memory-networks for machine"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,reading.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.962599754333496, arXiv preprint arXiv:1601.06733
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,", 2016."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[5]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,10.061732292175293," Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Fethi Bougares, Holger Schwenk,"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.972557067871094,and Yoshua Bengio. Learning phrase representations using rnn encoder-decoder for statistical
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,machine translation.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.962599754333496, CoRR
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,", abs/1406.1078, 2014."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[6]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,10.061732292175293, Francois Chollet. Xception: Deep learning with depthwise separable convolutions.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,10.061732292175293, arXiv
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.962599754333496,preprint arXiv:1610.02357
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,", 2016."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[7]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.877554893493652," Junyoung Chung, Çaglar Gülçehre, Kyunghyun Cho, and Yoshua Bengio. Empirical evaluation"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,of gated recurrent neural networks on sequence modeling.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.962599754333496, CoRR
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,", abs/1412.3555, 2014."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[8]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,10.022196769714355," Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, and Yann N. Dauphin. Convolu-"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,tional sequence to sequence learning.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.962599754333496, arXiv preprint arXiv:1705.03122v2
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,", 2017."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[9]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,10.061732292175293, Alex Graves.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,10.061732292175293,Generating sequences with recurrent neural networks.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,10.061732292175293,arXiv preprint
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.962599754333496,arXiv:1308.0850
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,", 2013."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[10]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,10.061732292175293," Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Deep residual learning for im-"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,10.061732292175293,age recognition. In
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,10.061732292175293, Proceedings of the IEEE Conference on Computer Vision and Pattern
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.962599754333496,Recognition
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,", pages 770–778, 2016."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[11]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,10.041984558105469," Sepp Hochreiter, Yoshua Bengio, Paolo Frasconi, and Jürgen Schmidhuber. Gradient ﬂow in"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,"recurrent nets: the difﬁculty of learning long-term dependencies, 2001."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[12]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,10.061732292175293, Sepp Hochreiter and Jürgen Schmidhuber. Long short-term memory.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,10.061732292175293, Neural computation
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,10.061732292175293,","
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,"9(8):1735–1780, 1997."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[13]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,10.022196769714355," Rafal Jozefowicz, Oriol Vinyals, Mike Schuster, Noam Shazeer, and Yonghui Wu. Exploring"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,the limits of language modeling.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.962599754333496, arXiv preprint arXiv:1602.02410
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,", 2016."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[14]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.92266845703125, Łukasz Kaiser and Ilya Sutskever. Neural GPUs learn algorithms. In
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.92266845703125, International Conference
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.962599754333496,on Learning Representations (ICLR)
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,", 2016."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[15]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.862470626831055," Nal Kalchbrenner, Lasse Espeholt, Karen Simonyan, Aaron van den Oord, Alex Graves, and Ko-"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.862470626831055,ray Kavukcuoglu. Neural machine translation in linear time.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.862470626831055, arXiv preprint arXiv:1610.10099v2
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.862470626831055,","
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,2017.
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[16]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.882577896118164," Yoon Kim, Carl Denton, Luong Hoang, and Alexander M. Rush. Structured attention networks."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,In
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.962599754333496, International Conference on Learning Representations
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,", 2017."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[17]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.90765380859375, Diederik Kingma and Jimmy Ba. Adam: A method for stochastic optimization. In
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.90765380859375, ICLR
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.90765380859375,", 2015."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[18]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.9176664352417, Oleksii Kuchaiev and Boris Ginsburg. Factorization tricks for LSTM networks.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.9176664352417, arXiv preprint
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.962599754333496,arXiv:1703.10722
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,", 2017."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[19]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,10.061732292175293," Zhouhan Lin, Minwei Feng, Cicero Nogueira dos Santos, Mo Yu, Bing Xiang, Bowen"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,10.061732292175293,"Zhou, and Yoshua Bengio. A structured self-attentive sentence embedding."
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,10.061732292175293, arXiv preprint
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.962599754333496,arXiv:1703.03130
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,", 2017."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,[20]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,10.061732292175293, Samy Bengio Łukasz Kaiser. Can active memory replace attention? In
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,10.061732292175293, Advances in Neural
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,10,9.962599754333496,"Information Processing Systems, (NIPS)"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,", 2016."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,10,9.962599754333496,10
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,[21]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.862470626831055," Minh-Thang Luong, Hieu Pham, and Christopher D Manning. Effective approaches to attention-"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,based neural machine translation.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,11,9.962599754333496, arXiv preprint arXiv:1508.04025
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,", 2015."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,[22]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.862470626831055," Ankur Parikh, Oscar Täckström, Dipanjan Das, and Jakob Uszkoreit. A decomposable attention"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,model. In
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,11,9.962599754333496, Empirical Methods in Natural Language Processing
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,", 2016."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,[23]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.95761775970459," Romain Paulus, Caiming Xiong, and Richard Socher. A deep reinforced model for abstractive"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,summarization.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,11,9.962599754333496, arXiv preprint arXiv:1705.04304
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,", 2017."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,[24]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,10.061732292175293, Oﬁr Press and Lior Wolf. Using the output embedding to improve language models.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,11,10.061732292175293, arXiv
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,11,9.962599754333496,preprint arXiv:1608.05859
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,", 2016."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,[25]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.92266845703125," Rico Sennrich, Barry Haddow, and Alexandra Birch. Neural machine translation of rare words"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,with subword units.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,11,9.962599754333496, arXiv preprint arXiv:1508.07909
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,", 2015."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,[26]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.902643203735352," Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton,"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,10.061732292175293,and Jeff Dean. Outrageously large neural networks: The sparsely-gated mixture-of-experts
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,layer.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,11,9.962599754333496, arXiv preprint arXiv:1701.06538
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,", 2017."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,[27]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.942654609680176," Nitish Srivastava, Geoffrey E Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan Salakhutdi-"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,10.02714729309082,nov. Dropout: a simple way to prevent neural networks from overﬁtting.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,11,10.02714729309082, Journal of Machine
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,11,9.962599754333496,Learning Research
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,", 15(1):1929–1958, 2014."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,[28]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,10.061732292175293," Sainbayar Sukhbaatar, arthur szlam, Jason Weston, and Rob Fergus. End-to-end memory"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,10.061732292175293,"networks. In C. Cortes, N. D. Lawrence, D. D. Lee, M. Sugiyama, and R. Garnett, editors,"
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,11,9.95761775970459,Advances in Neural Information Processing Systems 28
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.95761775970459,", pages 2440–2448. Curran Associates,"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,"Inc., 2015."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,[29]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,10.061732292175293," Ilya Sutskever, Oriol Vinyals, and Quoc VV Le. Sequence to sequence learning with neural"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,networks. In
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,11,9.962599754333496, Advances in Neural Information Processing Systems
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,", pages 3104–3112, 2014."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,[30]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,10.061732292175293," Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, and Zbigniew Wojna."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,Rethinking the inception architecture for computer vision.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,11,9.962599754333496, CoRR
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,", abs/1512.00567, 2015."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,[31]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,10.061732292175293," Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V Le, Mohammad Norouzi, Wolfgang"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.862470626831055,"Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, et al. Google’s neural machine"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,10.012289047241211,translation system: Bridging the gap between human and machine translation.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,11,10.012289047241211, arXiv preprint
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,11,9.962599754333496,arXiv:1609.08144
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,", 2016."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,[32]
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,10.061732292175293," Jie Zhou, Ying Cao, Xuguang Wang, Peng Li, and Wei Xu. Deep recurrent models with"
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,fast-forward connections for neural machine translation.
+0,sample.pdf,pdf,NimbusRomNo9L-ReguItal,False,False,11,9.962599754333496, CoRR
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,", abs/1606.04199, 2016."
+0,sample.pdf,pdf,NimbusRomNo9L-Regu,False,False,11,9.962599754333496,11

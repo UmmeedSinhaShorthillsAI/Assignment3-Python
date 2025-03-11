@@ -1,0 +1,3 @@
+file_name,file_path,file_type,format,height,rel_id,width
+sample.docx,output/images/docx_sample_rId6.png,docx,png,267,rId6,374
+sample.docx,output/images/docx_sample_rId7.png,docx,png,361,rId7,580

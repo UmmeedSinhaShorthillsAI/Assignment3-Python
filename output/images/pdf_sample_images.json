@@ -1,0 +1,32 @@
+[
+  {
+    "page_number": 3,
+    "image_index": 1,
+    "width": 1520,
+    "height": 2239,
+    "format": "png",
+    "file_path": "output/images/pdf_sample_3_1.png",
+    "file_type": "pdf",
+    "file_name": "sample.pdf"
+  },
+  {
+    "page_number": 4,
+    "image_index": 1,
+    "width": 835,
+    "height": 1282,
+    "format": "png",
+    "file_path": "output/images/pdf_sample_4_1.png",
+    "file_type": "pdf",
+    "file_name": "sample.pdf"
+  },
+  {
+    "page_number": 4,
+    "image_index": 2,
+    "width": 445,
+    "height": 884,
+    "format": "png",
+    "file_path": "output/images/pdf_sample_4_2.png",
+    "file_type": "pdf",
+    "file_name": "sample.pdf"
+  }
+]
